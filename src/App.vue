@@ -15,6 +15,8 @@
     <router-link to="/databindinglist">v-for List</router-link> |
     <router-link to="/renderingvif">v-if render</router-link> |
     <router-link to="/eventclick">eventclick</router-link> |
+    <router-link to="/watchandcomputed">watch</router-link> |
+    <router-link to="/watchandcomputed2">computed</router-link>
 
   </div>
   <router-view/>
