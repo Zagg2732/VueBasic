@@ -28,9 +28,11 @@
     <router-link to="/parentcomponent3">ParentComponent3</router-link> |
     <router-link to="/parentcomponent4">ParentComponent4</router-link> |
     <router-link to="/parentcomponent5">ParentComponent5</router-link>
-
-
-
+    <br> <h1>Slot</h1>
+    <router-link to="/slot">Slot</router-link>
+    <br> <h1>Provide / Inject</h1>
+    <router-link to="/grandparent">GrandParent</router-link>  |
+    <router-link to="/provideinject">Provide Inject</router-link>
 
 
 
