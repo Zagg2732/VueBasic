@@ -32,8 +32,14 @@
     <router-link to="/slot">Slot</router-link>
     <br> <h1>Provide / Inject</h1>
     <router-link to="/grandparent">GrandParent</router-link>  |
-    <router-link to="/provideinject">Provide Inject</router-link>
-
+    <router-link to="/provideinject">Provide Inject</router-link> |
+    <router-link to="/provideinject2">Provide Inject2</router-link>
+    <br> <h1>Calculator</h1>
+    <router-link to="/calculator">Calculator</router-link> |
+    <router-link to="/calculator2">Calculator2</router-link> |
+    <router-link to="/calculator3">Calculator3</router-link>
+    <br> <h1>vuex</h1>
+    <router-link to="/storeaccess">vuex</router-link>
 
 
   </div>
