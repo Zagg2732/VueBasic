@@ -17,6 +17,22 @@
     <router-link to="/eventclick">eventclick</router-link> |
     <router-link to="/watchandcomputed">watch</router-link> |
     <router-link to="/watchandcomputed2">computed</router-link>
+    <br> <h1>Mock Server(Postman)</h1>
+    <router-link to="/databindinglist2">Mock Server</router-link>
+    <br> <h1>Components</h1>
+    <router-link to="/nestedcomponent">Nest Component</router-link> |
+    <router-link to="/nestedcomponent2">Nest Component</router-link>
+    <br> <h1>Parent/Child Components</h1>
+    <router-link to="/parentcomponent">ParentComponent</router-link> |
+    <router-link to="/parentcomponent2">ParentComponent2</router-link> |
+    <router-link to="/parentcomponent3">ParentComponent3</router-link> |
+    <router-link to="/parentcomponent4">ParentComponent4</router-link> |
+    <router-link to="/parentcomponent5">ParentComponent5</router-link>
+
+
+
+
+
 
   </div>
   <router-view/>
